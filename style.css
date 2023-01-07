@@ -1,0 +1,22 @@
+a {
+    color: rgb(46, 23, 53);
+    text-decoration: none;
+}
+
+.newsItem {
+    background-color: royalblue;
+}
+
+#newsContainer {
+    background-color: rgb(155, 186, 212);
+}
+
+body {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+#advert {
+    background-color: rgb(218, 23, 169);
+}
